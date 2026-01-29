@@ -13,28 +13,24 @@ This project analyzes food delivery order data to forecast demand and improve op
 - Demand forecasting using Linear Regression
 - Exploratory Data Analysis
 - Power BI dashboard visualization
-  
----
 
 ## Project Structure
-food-delivery-demand-forecasting/
-│
-├── data/
-│   └── food_delivery_data.csv
-│
-├── src/
-│   └── food_delivery_demand_forecasting.ipynb
-│
-├── sql/
-│   └── food_delivery_queries.sql
-│
-├── powerbi/
-│   └── Food_Dashboard.png
-│
-├── README.md
-└── requirements.txt
-
----
+   food-delivery-demand-forecasting/
+   │
+   ├── data/
+   │   └── food_delivery_data.csv
+   │
+   ├── src/
+   │   └── food_delivery_demand_forecasting.ipynb
+   │
+   ├── sql/
+   │   └── food_delivery_queries.sql
+   │
+   ├── powerbi/
+   │   └── Food_Dashboard.png
+   │
+   ├── README.md
+   └── requirements.txt
 
 ## Conclusion
 
@@ -42,4 +38,5 @@ This project demonstrates how food delivery data can be leveraged to forecast de
 
 ## Author
 Faiz
+
 
